@@ -1,3 +1,6 @@
+---
+title: "Chapter 2: Organizational Architecture That Wins"
+---
 
 ## Chapter 2: Organizational Architecture That Wins##
 
