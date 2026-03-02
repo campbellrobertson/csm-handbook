@@ -1,3 +1,6 @@
+---
+title: "Chapter 10: What Separates Customer Success Leaders from Laggards?"
+---
 **Chapter 10: What Separates Customer Success Leaders from Laggards?**
 
 ---------------
