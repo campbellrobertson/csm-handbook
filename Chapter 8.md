@@ -1,3 +1,6 @@
+---
+title: "Chapter 8: Digital First Customer Success Transformation"
+---
 ## Chapter 8: Digital First Customer Success Transformation ##
 
 **Chapter 8: How Do You Scale Customer Success Through AI and Digital Transformation?**
