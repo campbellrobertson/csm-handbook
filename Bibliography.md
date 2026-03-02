@@ -1,3 +1,6 @@
+---
+title: "Bibliography"
+---
 
 **Books & Foundational Texts**
 
