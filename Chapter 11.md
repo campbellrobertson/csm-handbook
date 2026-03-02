@@ -3,7 +3,7 @@ title: "Chapter 11: Bringing It All Together with the Value First Method"
 ---
 # Chapter 11 Bringing it all together with the Value First Method #
 
-**Chapter 11: How Do You Build a Customer Success Transformation That Lasts Beyond 2026?**
+How Do You Build a Customer Success Transformation That Lasts Beyond 2026?**
 
 ---------------
 

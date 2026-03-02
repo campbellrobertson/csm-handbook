@@ -3,7 +3,7 @@ title: "Chapter 7: AI-Powered Predictive Customer Intelligence and Analytics"
 ---
 ## Chapter 7: AI-Powered Predictive Customer Intelligence and Analyitcs ##
 
-**Chapter 7: How Do You Transform Customer Success from Cost Center to Strategic Advantage?**
+How Do You Transform Customer Success from Cost Center to Strategic Advantage?**
 
 ---------------
 

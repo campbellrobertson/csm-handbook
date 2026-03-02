@@ -3,7 +3,7 @@ title: "Chapter 4: Building and Scaling Your CSM Team"
 ---
 ## Chapter 4: Building and Scaling Your CSM Team ##
 
-**Chapter 4: How Do You Build a CSM Team That Performs---and Lasts?**
+How Do You Build a CSM Team That Performs---and Lasts?**
 
 ---------------
 
