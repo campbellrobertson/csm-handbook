@@ -1,3 +1,6 @@
+---
+title: "Chapter 5: Operational Excellence in Customer Success"
+---
 ## Chapter 5: Operational Excellence in Customer Success ##
 
 **Chapter 5: How Do You Scale Customer Success Without Losing the Human Touch?**
