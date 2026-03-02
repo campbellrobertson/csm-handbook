@@ -1,3 +1,6 @@
+---
+title: "Chapter 1: The Strategic Imperative of Customer Success"
+---
 ## Chapter 1: The Strategic Imperative of Customer Success ##
 
 
