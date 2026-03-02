@@ -1,3 +1,6 @@
+---
+title: "Chapter 9: Revenue-Focused Customer Success Operations"
+---
 ## Chapter 9: Revenue-Focused Customer Success Operations ##
 
 **Chapter 9: How Do You Build a Customer Success Transformation Roadmap That Actually Works?**
