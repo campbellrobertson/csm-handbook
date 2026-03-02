@@ -4,7 +4,7 @@ title: "Chapter 2: Organizational Architecture That Wins"
 
 ## Chapter 2: Organizational Architecture That Wins##
 
-**Chapter 2: Where Should Customer Success Report---And Why Does It Matter?**
+**Where Should Customer Success Report---And Why Does It Matter?**
 
 ---------------
 
