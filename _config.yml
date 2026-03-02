@@ -6,3 +6,5 @@ baseurl: "/csm-handbook"
 url: "https://campbellrobertson.github.io"
 
 markdown: kramdown
+
+header_pages: []
