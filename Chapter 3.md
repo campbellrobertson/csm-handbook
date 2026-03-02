@@ -1,3 +1,6 @@
+---
+title: "Chapter 3: Economic Resilience Through Customer Success"
+---
 ## Chapter 3: Economic Resilience Through Customer Success  ##
 
 
