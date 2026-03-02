@@ -5,8 +5,6 @@ title: "CSM Handbook"
 
 # Customer Success Management Handbook for Executives
 
-Welcome to the CSM Handbook
-
 ## Chapters
 
 1. [Chapter 1: The Strategic Imperative of Customer Success](chapter-1.html)
