@@ -1,6 +1,6 @@
-## Chapter 3: Economic Resilience Through Customer Success (2,500) ##
+## Chapter 3: Economic Resilience Through Customer Success  ##
 
-**Chapter 3: How Does Customer Success Create Economic Resilience?**
+
 
 ---------------
 
