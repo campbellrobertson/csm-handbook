@@ -1,3 +1,6 @@
+---
+title: "Chapter 6: Driving Growth and Optimization"
+---
 ## Chapter 6: Driving Growth and Optimization ##
 
 **Chapter 6: How Do You Turn Customer Success Into a Growth Engine?**
